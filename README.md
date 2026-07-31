@@ -1,7 +1,10 @@
 # Netflix Analytics Project
 
 ## Project Overview
-This project analyzes the Netflix Titles dataset using Python. It includes data cleaning, exploratory data analysis (EDA), and data visualization to gain insights into Netflix content.
+
+This project analyzes the Netflix Titles dataset using Python. It includes data cleaning, exploratory data analysis (EDA), data visualization, dashboard creation, and business insights to understand Netflix content trends.
+
+---
 
 ## Technologies Used
 
@@ -11,23 +14,34 @@ This project analyzes the Netflix Titles dataset using Python. It includes data 
 - Matplotlib
 - Seaborn
 
+---
+
 ## Dataset
-- Dataset Name: netflix_titles.csv
-- Total Records: 100+ (Sample Dataset)
+
+- Dataset Name: `netflix_titles.csv`
 - File Format: CSV
 
+---
+
 ## Project Features
+
 - Data Cleaning
 - Missing Value Handling
 - Duplicate Removal
 - Date Conversion
 - Feature Extraction
-- Exploratory Data Analysis
+- Exploratory Data Analysis (EDA)
 - Statistical Analysis
 - Data Visualization
+- Dashboard Creation
+- Business Insights
 - Export Cleaned Dataset
+- Export Analysis Results
+
+---
 
 ## Charts Generated
+
 - Movies vs TV Shows
 - Top Genres
 - Top Countries
@@ -37,13 +51,17 @@ This project analyzes the Netflix Titles dataset using Python. It includes data 
 - Releases by Year
 - Movie Duration Boxplot
 - Correlation Heatmap
+- Dashboard
+
+---
 
 ## Project Structure
 
 ```text
-Netflix_Analytics/
+Netflix_Analytics_Project/
 │
-├── Charts/
+├── charts/
+│   ├── dashboard.png
 │   ├── correlation_heatmap.png
 │   ├── movie_duration_boxplot.png
 │   ├── movie_vs_tvshow.png
@@ -55,6 +73,8 @@ Netflix_Analytics/
 │   └── top_genres.png
 │
 ├── output/
+│   ├── analysis_results.csv
+│   ├── business_insights.txt
 │   └── cleaned_netflix_data.csv
 │
 ├── netflix_analysis.py
@@ -63,42 +83,56 @@ Netflix_Analytics/
 └── README.md
 ```
 
+---
+
 ## How to Run
 
-1. Install dependencies
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-2. Run the project
+### Run the Project
 
 ```bash
 python netflix_analysis.py
 ```
 
+---
+
 ## Output
 
-- Cleaned dataset is saved in the `output` folder.
-- All generated charts are saved in the `Charts` folder.
+- Cleaned Dataset (`cleaned_netflix_data.csv`)
+- Analysis Results (`analysis_results.csv`)
+- Business Insights (`business_insights.txt`)
+- Dashboard (`dashboard.png`)
+- Charts (`.png`)
+
+---
 
 ## Dashboard
 
-![Netflix Dashboard](Charts/dashboard.png)
+![Netflix Dashboard](charts/dashboard.png)
+
+---
 
 ## Skills Demonstrated
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Data Filtering
-- Data Aggregation
 - Python Programming
 - Pandas
 - NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+- Dashboard Creation
+- Business Insights
 - Matplotlib
 - Seaborn
 
-## Conclusion
-This project demonstrates end-to-end data analysis using Python. It covers data cleaning, exploratory data analysis (EDA), data visualization, and exporting cleaned data, helping to build practical data analysis skills.
+---
 
+## Conclusion
+
+This project demonstrates an end-to-end data analysis workflow using Python. It covers data cleaning, exploratory data analysis (EDA), visualization, dashboard creation, and business insight generation using the Netflix Titles dataset.
