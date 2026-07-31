@@ -202,11 +202,6 @@ print("\nContent Released in India:")
 india_content = df[df["country"].str.contains("India", na=False)]
 print(india_content[["title", "country"]])
 
-
-# ==========================
-# Question 24 - Content Directed by Any Director
-# ==========================
-
 # ==========================
 # Question 24 - Content Directed by Specific Director
 # ==========================
@@ -223,7 +218,7 @@ if len(director_content) > 0:
     print(director_content[["title", "director"]])
 else:
     print("No content found for the given director.")
-    
+
 # ==========================
 # Question 25 - Titles Containing 'Love'
 # ==========================
