@@ -3,7 +3,8 @@
 ## Project Overview
 This project analyzes the Netflix Titles dataset using Python. It includes data cleaning, exploratory data analysis (EDA), and data visualization to gain insights into Netflix content.
 
-## Tools & Libraries
+## Technologies Used
+
 - Python
 - Pandas
 - NumPy
@@ -12,7 +13,7 @@ This project analyzes the Netflix Titles dataset using Python. It includes data 
 
 ## Dataset
 - Dataset Name: netflix_titles.csv
-- Total Records: 100+
+- Total Records: 100+ (Sample Dataset)
 - File Format: CSV
 
 ## Project Features
@@ -40,7 +41,7 @@ This project analyzes the Netflix Titles dataset using Python. It includes data 
 ## Project Structure
 
 ```text
-Netflix_Analytics_Project/
+Netflix_Analytics/
 │
 ├── Charts/
 │   ├── correlation_heatmap.png
@@ -77,8 +78,27 @@ python netflix_analysis.py
 ```
 
 ## Output
-- Cleaned dataset saved in output folder.
-- Charts saved in Charts folder.
+
+- Cleaned dataset is saved in the `output` folder.
+- All generated charts are saved in the `Charts` folder.
+
+## Sample Visualization
+
+![Movies vs TV Shows](Charts/movie_vs_tvshow.png)
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Data Filtering
+- Data Aggregation
+- Python Programming
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 ## Conclusion
-This project demonstrates data cleaning, exploratory data analysis, and visualization skills using Python and popular data analysis libraries.
+This project demonstrates end-to-end data analysis using Python. It covers data cleaning, exploratory data analysis (EDA), data visualization, and exporting cleaned data, helping to build practical data analysis skills.
+
