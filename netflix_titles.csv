@@ -1,0 +1,121 @@
+Show_ID,Type,Title,Director,Cast,Country,Date_Added,Release_Year,Rating,Duration,Genre,Description
+s1,Movie,Sample Title 1,M. Lee,"Actor A, Actor B",United States,"January 31, 2021",2000,TV-PG,101 min,Sci-Fi,Sample description for title 1.
+s2,Movie,Sample Title 2,A. Kumar,"Actor A, Actor B",Canada,"September 25, 2022",2018,PG-13,74 min,Sci-Fi,Sample description for title 2.
+s3,Movie,Sample Title 3,K. Tanaka,"Actor A, Actor B",Germany,"March 25, 2020",2017,TV-14,161 min,Documentary,Sample description for title 3.
+s4,Movie,Sample Title 4,K. Tanaka,"Actor C, Actor D",Japan,"October 16, 2019",2024,PG-13,159 min,Romantic,Sample description for title 4.
+s5,TV Show,Sample Title 5,S. Rao,"Actor C, Actor D",South Korea,"January 15, 2019",2003,TV-14,7 Seasons,Documentary,Sample description for title 5.
+s6,Movie,Sample Title 6,S. Rao,"Actor C, Actor D",United States,"February 25, 2023",2023,TV-14,138 min,Documentary,Sample description for title 6.
+s7,TV Show,Sample Title 7,A. Kumar,"Actor E, Actor F",Canada,"February 27, 2020",2018,G,2 Seasons,Documentary,Sample description for title 7.
+s8,Movie,Sample Title 8,P. Brown,"Actor C, Actor D",South Korea,"February 18, 2019",2007,PG-13,118 min,Thriller,Sample description for title 8.
+s9,TV Show,Sample Title 9,J. Smith,"Actor E, Actor F",Canada,"December 29, 2020",2006,PG-13,2 Seasons,Kids,Sample description for title 9.
+s10,TV Show,Sample Title 10,R. Patel,"Actor A, Actor B",Canada,"March 31, 2024",2008,G,4 Seasons,Drama,Sample description for title 10.
+s11,TV Show,Sample Title 11,M. Lee,"Actor E, Actor F",South Korea,"January 01, 2021",2012,PG-13,2 Seasons,Kids,Sample description for title 11.
+s12,TV Show,Sample Title 12,P. Brown,"Actor A, Actor B",Canada,"February 23, 2023",2020,TV-PG,3 Seasons,Sci-Fi,Sample description for title 12.
+s13,TV Show,Sample Title 13,K. Tanaka,"Actor C, Actor D",Canada,"July 22, 2024",2023,PG-13,7 Seasons,Sci-Fi,Sample description for title 13.
+s14,TV Show,Sample Title 14,J. Smith,"Actor E, Actor F",United Kingdom,"July 12, 2018",2002,G,2 Seasons,Horror,Sample description for title 14.
+s15,Movie,Sample Title 15,L. Martin,"Actor E, Actor F",Japan,"April 13, 2022",2012,TV-14,146 min,Drama,Sample description for title 15.
+s16,Movie,Sample Title 16,P. Brown,"Actor E, Actor F",South Korea,"January 09, 2024",2021,TV-MA,166 min,Documentary,Sample description for title 16.
+s17,TV Show,Sample Title 17,P. Brown,"Actor E, Actor F",United Kingdom,"February 02, 2023",2005,TV-14,1 Seasons,Comedy,Sample description for title 17.
+s18,TV Show,Sample Title 18,J. Smith,"Actor C, Actor D",United Kingdom,"September 11, 2023",2020,TV-14,4 Seasons,Sci-Fi,Sample description for title 18.
+s19,Movie,Sample Title 19,A. Kumar,"Actor A, Actor B",South Korea,"August 20, 2021",2019,G,132 min,Documentary,Sample description for title 19.
+s20,Movie,Sample Title 20,S. Rao,"Actor A, Actor B",Germany,"September 13, 2020",2001,G,142 min,Comedy,Sample description for title 20.
+s21,Movie,Sample Title 21,J. Smith,"Actor C, Actor D",Australia,"May 01, 2023",2004,G,140 min,Crime,Sample description for title 21.
+s22,TV Show,Sample Title 22,P. Brown,"Actor C, Actor D",South Korea,"January 18, 2024",2006,R,4 Seasons,Sci-Fi,Sample description for title 22.
+s23,TV Show,Sample Title 23,S. Rao,"Actor C, Actor D",India,"October 12, 2020",2003,TV-14,4 Seasons,Sci-Fi,Sample description for title 23.
+s24,Movie,Sample Title 24,S. Rao,"Actor E, Actor F",India,"June 21, 2020",2018,PG-13,70 min,Comedy,Sample description for title 24.
+s25,Movie,Sample Title 25,M. Lee,"Actor C, Actor D",Germany,"October 18, 2018",2010,PG-13,135 min,Sci-Fi,Sample description for title 25.
+s26,Movie,Sample Title 26,L. Martin,"Actor A, Actor B",Germany,"May 27, 2024",2023,G,143 min,Horror,Sample description for title 26.
+s27,Movie,Sample Title 27,K. Tanaka,"Actor C, Actor D",France,"February 02, 2019",2003,R,154 min,Kids,Sample description for title 27.
+s28,Movie,Sample Title 28,K. Tanaka,"Actor E, Actor F",South Korea,"February 08, 2019",2021,G,77 min,Comedy,Sample description for title 28.
+s29,Movie,Sample Title 29,L. Martin,"Actor A, Actor B",France,"February 19, 2020",2006,PG-13,138 min,Documentary,Sample description for title 29.
+s30,TV Show,Sample Title 30,S. Rao,"Actor A, Actor B",Australia,"November 05, 2018",2007,G,8 Seasons,Drama,Sample description for title 30.
+s31,Movie,Sample Title 31,K. Tanaka,"Actor C, Actor D",Germany,"August 26, 2020",2024,PG-13,91 min,Horror,Sample description for title 31.
+s32,Movie,Sample Title 32,K. Tanaka,"Actor C, Actor D",Germany,"April 02, 2022",2005,PG,70 min,Horror,Sample description for title 32.
+s33,TV Show,Sample Title 33,M. Lee,"Actor A, Actor B",Spain,"February 17, 2020",2004,TV-PG,5 Seasons,Sci-Fi,Sample description for title 33.
+s34,Movie,Sample Title 34,A. Kumar,"Actor E, Actor F",Germany,"July 08, 2021",2023,TV-14,77 min,Sci-Fi,Sample description for title 34.
+s35,Movie,Sample Title 35,J. Smith,"Actor A, Actor B",Spain,"September 12, 2023",2001,TV-MA,80 min,Romantic,Sample description for title 35.
+s36,TV Show,Sample Title 36,A. Kumar,"Actor E, Actor F",United States,"May 22, 2024",2003,R,4 Seasons,Crime,Sample description for title 36.
+s37,TV Show,Sample Title 37,M. Lee,"Actor C, Actor D",France,"April 16, 2020",2008,PG-13,6 Seasons,Documentary,Sample description for title 37.
+s38,TV Show,Sample Title 38,L. Martin,"Actor E, Actor F",Spain,"October 25, 2018",2010,TV-MA,1 Seasons,Comedy,Sample description for title 38.
+s39,Movie,Sample Title 39,R. Patel,"Actor A, Actor B",Canada,"December 22, 2020",2016,PG,86 min,Documentary,Sample description for title 39.
+s40,Movie,Sample Title 40,P. Brown,"Actor E, Actor F",Australia,"February 04, 2024",2014,TV-MA,160 min,Sci-Fi,Sample description for title 40.
+s41,TV Show,Sample Title 41,P. Brown,"Actor A, Actor B",United States,"March 01, 2019",2021,TV-PG,3 Seasons,Sci-Fi,Sample description for title 41.
+s42,Movie,Sample Title 42,M. Lee,"Actor E, Actor F",South Korea,"February 28, 2021",2008,PG-13,147 min,Documentary,Sample description for title 42.
+s43,TV Show,Sample Title 43,K. Tanaka,"Actor C, Actor D",India,"July 28, 2018",2008,TV-MA,2 Seasons,Thriller,Sample description for title 43.
+s44,Movie,Sample Title 44,L. Martin,"Actor E, Actor F",France,"December 08, 2020",2020,TV-14,90 min,Drama,Sample description for title 44.
+s45,Movie,Sample Title 45,A. Kumar,"Actor C, Actor D",Spain,"September 03, 2019",2002,TV-14,139 min,Action,Sample description for title 45.
+s46,TV Show,Sample Title 46,R. Patel,"Actor A, Actor B",South Korea,"June 21, 2018",2004,PG-13,5 Seasons,Romantic,Sample description for title 46.
+s47,Movie,Sample Title 47,J. Smith,"Actor A, Actor B",United Kingdom,"April 12, 2024",2011,G,122 min,Action,Sample description for title 47.
+s48,TV Show,Sample Title 48,K. Tanaka,"Actor E, Actor F",Canada,"January 05, 2020",2000,PG,6 Seasons,Action,Sample description for title 48.
+s49,Movie,Sample Title 49,L. Martin,"Actor A, Actor B",Canada,"June 08, 2018",2012,G,179 min,Kids,Sample description for title 49.
+s50,TV Show,Sample Title 50,A. Kumar,"Actor E, Actor F",Canada,"July 21, 2020",2009,R,4 Seasons,Thriller,Sample description for title 50.
+s51,TV Show,Sample Title 51,K. Tanaka,"Actor E, Actor F",Australia,"February 17, 2021",2002,PG,6 Seasons,Drama,Sample description for title 51.
+s52,Movie,Sample Title 52,P. Brown,"Actor A, Actor B",United States,"January 02, 2020",2008,TV-14,144 min,Horror,Sample description for title 52.
+s53,TV Show,Sample Title 53,S. Rao,"Actor C, Actor D",Spain,"July 08, 2021",2023,PG-13,7 Seasons,Documentary,Sample description for title 53.
+s54,Movie,Sample Title 54,M. Lee,"Actor C, Actor D",France,"November 22, 2022",2022,TV-MA,70 min,Thriller,Sample description for title 54.
+s55,TV Show,Sample Title 55,P. Brown,"Actor E, Actor F",France,"May 26, 2019",2021,PG,5 Seasons,Horror,Sample description for title 55.
+s56,TV Show,Sample Title 56,K. Tanaka,"Actor E, Actor F",France,"June 06, 2019",2017,TV-PG,4 Seasons,Action,Sample description for title 56.
+s57,TV Show,Sample Title 57,P. Brown,"Actor C, Actor D",Canada,"February 23, 2024",2012,R,1 Seasons,Crime,Sample description for title 57.
+s58,TV Show,Sample Title 58,M. Lee,"Actor E, Actor F",Germany,"December 15, 2022",2014,G,8 Seasons,Action,Sample description for title 58.
+s59,Movie,Sample Title 59,R. Patel,"Actor A, Actor B",Canada,"October 13, 2023",2009,TV-PG,154 min,Documentary,Sample description for title 59.
+s60,Movie,Sample Title 60,A. Kumar,"Actor A, Actor B",Canada,"March 26, 2020",2025,R,88 min,Crime,Sample description for title 60.
+s61,Movie,Sample Title 61,M. Lee,"Actor E, Actor F",France,"August 25, 2022",2014,R,150 min,Horror,Sample description for title 61.
+s62,Movie,Sample Title 62,S. Rao,"Actor C, Actor D",Canada,"January 23, 2018",2004,PG-13,166 min,Sci-Fi,Sample description for title 62.
+s63,TV Show,Sample Title 63,S. Rao,"Actor C, Actor D",United Kingdom,"April 02, 2024",2001,G,4 Seasons,Kids,Sample description for title 63.
+s64,TV Show,Sample Title 64,L. Martin,"Actor A, Actor B",Germany,"December 18, 2022",2024,R,7 Seasons,Documentary,Sample description for title 64.
+s65,Movie,Sample Title 65,L. Martin,"Actor E, Actor F",Canada,"February 09, 2021",2020,PG,168 min,Kids,Sample description for title 65.
+s66,Movie,Sample Title 66,P. Brown,"Actor C, Actor D",South Korea,"March 16, 2021",2022,TV-14,100 min,Comedy,Sample description for title 66.
+s67,Movie,Sample Title 67,J. Smith,"Actor E, Actor F",Canada,"August 05, 2020",2004,TV-MA,119 min,Horror,Sample description for title 67.
+s68,TV Show,Sample Title 68,K. Tanaka,"Actor A, Actor B",Canada,"February 01, 2024",2010,G,8 Seasons,Horror,Sample description for title 68.
+s69,TV Show,Sample Title 69,K. Tanaka,"Actor C, Actor D",India,"July 20, 2024",2024,PG,1 Seasons,Documentary,Sample description for title 69.
+s70,TV Show,Sample Title 70,L. Martin,"Actor A, Actor B",Japan,"January 14, 2024",2013,R,4 Seasons,Kids,Sample description for title 70.
+s71,Movie,Sample Title 71,K. Tanaka,"Actor E, Actor F",United Kingdom,"October 08, 2021",2012,G,155 min,Kids,Sample description for title 71.
+s72,Movie,Sample Title 72,K. Tanaka,"Actor E, Actor F",Spain,"December 28, 2023",2019,TV-PG,73 min,Drama,Sample description for title 72.
+s73,Movie,Sample Title 73,L. Martin,"Actor A, Actor B",India,"October 22, 2022",2020,PG,87 min,Horror,Sample description for title 73.
+s74,TV Show,Sample Title 74,R. Patel,"Actor C, Actor D",Japan,"February 06, 2023",2006,G,6 Seasons,Horror,Sample description for title 74.
+s75,TV Show,Sample Title 75,A. Kumar,"Actor C, Actor D",Canada,"April 11, 2023",2002,TV-PG,1 Seasons,Comedy,Sample description for title 75.
+s76,Movie,Sample Title 76,M. Lee,"Actor A, Actor B",Spain,"May 08, 2018",2024,PG-13,101 min,Romantic,Sample description for title 76.
+s77,Movie,Sample Title 77,M. Lee,"Actor C, Actor D",Japan,"April 14, 2019",2015,G,142 min,Thriller,Sample description for title 77.
+s78,Movie,Sample Title 78,S. Rao,"Actor A, Actor B",Japan,"October 23, 2024",2019,TV-MA,165 min,Crime,Sample description for title 78.
+s79,Movie,Sample Title 79,K. Tanaka,"Actor C, Actor D",Canada,"June 16, 2024",2009,TV-MA,156 min,Crime,Sample description for title 79.
+s80,Movie,Sample Title 80,S. Rao,"Actor E, Actor F",India,"May 20, 2021",2003,PG,178 min,Sci-Fi,Sample description for title 80.
+s81,TV Show,Sample Title 81,R. Patel,"Actor A, Actor B",France,"February 26, 2022",2021,G,2 Seasons,Kids,Sample description for title 81.
+s82,Movie,Sample Title 82,L. Martin,"Actor E, Actor F",United Kingdom,"January 23, 2022",2013,R,151 min,Action,Sample description for title 82.
+s83,TV Show,Sample Title 83,L. Martin,"Actor C, Actor D",Spain,"January 14, 2024",2019,PG,8 Seasons,Thriller,Sample description for title 83.
+s84,Movie,Sample Title 84,M. Lee,"Actor C, Actor D",Spain,"February 16, 2021",2002,TV-14,127 min,Horror,Sample description for title 84.
+s85,TV Show,Sample Title 85,J. Smith,"Actor C, Actor D",Canada,"July 18, 2023",2000,PG,6 Seasons,Documentary,Sample description for title 85.
+s86,TV Show,Sample Title 86,A. Kumar,"Actor E, Actor F",Canada,"September 07, 2024",2008,TV-MA,5 Seasons,Romantic,Sample description for title 86.
+s87,TV Show,Sample Title 87,L. Martin,"Actor E, Actor F",Germany,"March 24, 2024",2015,R,4 Seasons,Drama,Sample description for title 87.
+s88,Movie,Sample Title 88,M. Lee,"Actor C, Actor D",Spain,"June 26, 2020",2009,PG,121 min,Kids,Sample description for title 88.
+s89,TV Show,Sample Title 89,R. Patel,"Actor E, Actor F",Germany,"March 04, 2024",2013,PG,6 Seasons,Documentary,Sample description for title 89.
+s90,TV Show,Sample Title 90,R. Patel,"Actor A, Actor B",Australia,"May 10, 2019",2007,G,4 Seasons,Action,Sample description for title 90.
+s91,Movie,Sample Title 91,P. Brown,"Actor A, Actor B",Canada,"June 07, 2023",2006,PG,105 min,Romantic,Sample description for title 91.
+s92,TV Show,Sample Title 92,J. Smith,"Actor C, Actor D",India,"May 23, 2021",2005,TV-MA,1 Seasons,Sci-Fi,Sample description for title 92.
+s93,TV Show,Sample Title 93,S. Rao,"Actor A, Actor B",Spain,"June 02, 2019",2022,PG,8 Seasons,Kids,Sample description for title 93.
+s94,TV Show,Sample Title 94,A. Kumar,"Actor C, Actor D",Germany,"October 27, 2021",2014,TV-MA,3 Seasons,Comedy,Sample description for title 94.
+s95,TV Show,Sample Title 95,J. Smith,"Actor A, Actor B",Spain,"October 31, 2018",2015,PG,1 Seasons,Comedy,Sample description for title 95.
+s96,Movie,Sample Title 96,K. Tanaka,"Actor E, Actor F",Spain,"April 04, 2024",2003,G,167 min,Crime,Sample description for title 96.
+s97,Movie,Sample Title 97,L. Martin,"Actor C, Actor D",Japan,"November 11, 2023",2024,G,118 min,Crime,Sample description for title 97.
+s98,TV Show,Sample Title 98,S. Rao,"Actor A, Actor B",Canada,"May 18, 2024",2009,PG,1 Seasons,Comedy,Sample description for title 98.
+s99,Movie,Sample Title 99,S. Rao,"Actor A, Actor B",India,"December 13, 2019",2007,R,140 min,Kids,Sample description for title 99.
+s100,TV Show,Sample Title 100,P. Brown,"Actor E, Actor F",Japan,"May 14, 2018",2009,TV-PG,4 Seasons,Kids,Sample description for title 100.
+s101,Movie,Sample Title 101,M. Lee,"Actor C, Actor D",United States,"August 14, 2020",2021,TV-14,103 min,Romantic,Sample description for title 101.
+s102,Movie,Sample Title 102,A. Kumar,"Actor A, Actor B",Japan,"August 06, 2019",2008,TV-14,79 min,Crime,Sample description for title 102.
+s103,TV Show,Sample Title 103,P. Brown,"Actor E, Actor F",France,"May 25, 2019",2014,PG,8 Seasons,Sci-Fi,Sample description for title 103.
+s104,TV Show,Sample Title 104,K. Tanaka,"Actor E, Actor F",South Korea,"November 26, 2018",2014,TV-14,1 Seasons,Documentary,Sample description for title 104.
+s105,Movie,Sample Title 105,A. Kumar,"Actor E, Actor F",Japan,"July 26, 2020",2002,TV-14,156 min,Drama,Sample description for title 105.
+s106,Movie,Sample Title 106,L. Martin,"Actor C, Actor D",United Kingdom,"October 27, 2023",2015,TV-14,153 min,Horror,Sample description for title 106.
+s107,TV Show,Sample Title 107,K. Tanaka,"Actor C, Actor D",South Korea,"April 10, 2023",2002,TV-PG,6 Seasons,Comedy,Sample description for title 107.
+s108,Movie,Sample Title 108,L. Martin,"Actor C, Actor D",France,"August 14, 2022",2010,G,158 min,Sci-Fi,Sample description for title 108.
+s109,Movie,Sample Title 109,P. Brown,"Actor C, Actor D",United States,"December 27, 2018",2014,G,110 min,Horror,Sample description for title 109.
+s110,Movie,Sample Title 110,K. Tanaka,"Actor A, Actor B",Canada,"February 01, 2024",2021,TV-14,129 min,Thriller,Sample description for title 110.
+s111,TV Show,Sample Title 111,M. Lee,"Actor C, Actor D",Australia,"December 16, 2022",2020,PG-13,1 Seasons,Documentary,Sample description for title 111.
+s112,TV Show,Sample Title 112,A. Kumar,"Actor E, Actor F",Spain,"June 09, 2023",2022,G,2 Seasons,Romantic,Sample description for title 112.
+s113,Movie,Sample Title 113,K. Tanaka,"Actor A, Actor B",Canada,"March 06, 2024",2009,G,71 min,Comedy,Sample description for title 113.
+s114,TV Show,Sample Title 114,P. Brown,"Actor E, Actor F",Japan,"September 23, 2019",2003,R,8 Seasons,Kids,Sample description for title 114.
+s115,TV Show,Sample Title 115,K. Tanaka,"Actor A, Actor B",Spain,"February 14, 2023",2007,TV-14,3 Seasons,Action,Sample description for title 115.
+s116,Movie,Sample Title 116,P. Brown,"Actor A, Actor B",Japan,"August 27, 2022",2008,TV-PG,113 min,Documentary,Sample description for title 116.
+s117,TV Show,Sample Title 117,R. Patel,"Actor C, Actor D",Australia,"January 04, 2023",2004,G,8 Seasons,Sci-Fi,Sample description for title 117.
+s118,TV Show,Sample Title 118,M. Lee,"Actor E, Actor F",France,"August 11, 2021",2014,PG-13,4 Seasons,Horror,Sample description for title 118.
+s119,Movie,Sample Title 119,K. Tanaka,"Actor C, Actor D",United Kingdom,"April 22, 2023",2010,R,160 min,Drama,Sample description for title 119.
+s120,Movie,Sample Title 120,S. Rao,"Actor C, Actor D",United States,"August 14, 2024",2016,TV-14,112 min,Kids,Sample description for title 120.
