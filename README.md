@@ -39,24 +39,42 @@ This project analyzes the Netflix Titles dataset using Python. It includes data 
 
 ## Project Structure
 
+```text
 Netflix_Analytics_Project/
 │
 ├── Charts/
+│   ├── correlation_heatmap.png
+│   ├── movie_duration_boxplot.png
+│   ├── movie_vs_tvshow.png
+│   ├── ratings_count.png
+│   ├── release_year_histogram.png
+│   ├── releases_by_year.png
+│   ├── top_countries.png
+│   ├── top_directors.png
+│   └── top_genres.png
+│
 ├── output/
+│   └── cleaned_netflix_data.csv
+│
 ├── netflix_analysis.py
 ├── netflix_titles.csv
 ├── requirements.txt
 └── README.md
+```
 
 ## How to Run
 
 1. Install dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
 2. Run the project
 
+```bash
 python netflix_analysis.py
+```
 
 ## Output
 - Cleaned dataset saved in output folder.
