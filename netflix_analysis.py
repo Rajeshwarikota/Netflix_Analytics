@@ -472,6 +472,123 @@ df.to_csv("output/cleaned_netflix_data.csv", index=False)
 
 print("\nCleaned Dataset Saved Successfully!")
 
+# ======================================
+# Question 45 - Dashboard
+# ======================================
+
+fig, axes = plt.subplots(2, 3, figsize=(18, 10))
+
+# 1 Movies vs TV Shows
+type_count = df["type"].value_counts()
+
+axes[0,0].pie(
+    type_count,
+    labels=type_count.index,
+    autopct="%1.1f%%",
+    startangle=90
+)
+axes[0,0].set_title("Movies vs TV Shows")
+
+# 2 Top Genres
+top_genres = df["genre"].value_counts().head(5)
+
+axes[0,1].bar(top_genres.index, top_genres.values)
+axes[0,1].set_title("Top Genres")
+axes[0,1].tick_params(axis="x", rotation=45)
+
+# 3 Top Countries
+top_countries = df["country"].value_counts().head(5)
+
+axes[0,2].bar(top_countries.index, top_countries.values)
+axes[0,2].set_title("Top Countries")
+axes[0,2].tick_params(axis="x", rotation=45)
+
+# 4 Ratings
+df["rating"].value_counts().plot(kind="bar", ax=axes[1,0])
+axes[1,0].set_title("Ratings")
+
+# 5 Release Year
+year_count = df["release_year"].value_counts().sort_index()
+
+axes[1,1].plot(year_count.index, year_count.values)
+axes[1,1].set_title("Releases by Year")
+
+# 6 Top Directors
+top_directors = df["director"].value_counts().head(5)
+
+axes[1,2].barh(top_directors.index, top_directors.values)
+axes[1,2].set_title("Top Directors")
+
+plt.tight_layout()
+
+plt.savefig("Charts/dashboard.png")
+
+plt.show()
+
+plt.close()
+
+# ======================================
+# Question 46 - Save Analysis Results
+# ======================================
+
+analysis_results = pd.DataFrame({
+    "Metric": [
+        "Total Titles",
+        "Movies",
+        "TV Shows",
+        "Oldest Release Year",
+        "Newest Release Year",
+        "Average Release Year",
+        "Most Common Rating",
+        "Top Genre",
+        "Top Country",
+        "Top Director"
+    ],
+    "Value": [
+        len(df),
+        df[df["type"] == "Movie"].shape[0],
+        df[df["type"] == "TV Show"].shape[0],
+        df["release_year"].min(),
+        df["release_year"].max(),
+        round(df["release_year"].mean(), 2),
+        df["rating"].mode()[0],
+        df["genre"].value_counts().idxmax(),
+        df["country"].value_counts().idxmax(),
+        df["director"].value_counts().idxmax()
+    ]
+})
+
+analysis_results.to_csv("output/analysis_results.csv", index=False)
+
+print("\nAnalysis Results Saved Successfully!")
+
+# ======================================
+# Question 47 - Business Insights
+# ======================================
+
+insights = [
+    f"Total Netflix Titles: {len(df)}",
+    f"Movies: {df[df['type']=='Movie'].shape[0]}",
+    f"TV Shows: {df[df['type']=='TV Show'].shape[0]}",
+    f"Most Common Genre: {df['genre'].value_counts().idxmax()}",
+    f"Most Common Rating: {df['rating'].mode()[0]}",
+    f"Top Country: {df['country'].value_counts().idxmax()}",
+    f"Top Director: {df['director'].value_counts().idxmax()}",
+    f"Oldest Release Year: {df['release_year'].min()}",
+    f"Latest Release Year: {df['release_year'].max()}",
+    f"Average Release Year: {round(df['release_year'].mean(), 2)}"
+]
+
+with open("output/business_insights.txt", "w") as file:
+    file.write("NETFLIX BUSINESS INSIGHTS\n")
+    file.write("=" * 35 + "\n\n")
+
+    for i, insight in enumerate(insights, start=1):
+        file.write(f"{i}. {insight}\n")
+
+print("\nBusiness Insights file created successfully!")
+
 print("\n========================================")
-print(" Netflix Analytics Project Completed ")
+print("Netflix Analytics Project Completed Successfully!")
+print("All outputs have been saved successfully.")
 print("========================================")

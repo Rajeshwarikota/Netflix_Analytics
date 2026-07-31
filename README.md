@@ -82,9 +82,9 @@ python netflix_analysis.py
 - Cleaned dataset is saved in the `output` folder.
 - All generated charts are saved in the `Charts` folder.
 
-## Sample Visualization
+## Dashboard
 
-![Movies vs TV Shows](Charts/movie_vs_tvshow.png)
+![Netflix Dashboard](Charts/dashboard.png)
 
 ## Skills Demonstrated
 

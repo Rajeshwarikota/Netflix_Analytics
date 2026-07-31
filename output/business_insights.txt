@@ -1,0 +1,13 @@
+NETFLIX BUSINESS INSIGHTS
+===================================
+
+1. Total Netflix Titles: 120
+2. Movies: 63
+3. TV Shows: 57
+4. Most Common Genre: Documentary
+5. Most Common Rating: G
+6. Top Country: Canada
+7. Top Director: K. Tanaka
+8. Oldest Release Year: 2000
+9. Latest Release Year: 2025
+10. Average Release Year: 2011.97
