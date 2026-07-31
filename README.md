@@ -113,8 +113,7 @@ python netflix_analysis.py
 
 ## Dashboard
 
-![Netflix Dashboard](charts/dashboard.png)
-
+![Netflix Dashboard](Charts/dashboard.png)
 ---
 
 ## Skills Demonstrated
